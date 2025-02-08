@@ -54,7 +54,7 @@ const Home = () => {
             <footer>
                 <h4>
                     Build with ❤️&nbsp;by&nbsp;
-                    <a href='https://github.com/Jinu-kumar'>Coder's Gyan</a>
+                    <a href='https://github.com/Rishab-tech07'>Technical Gyan</a>
                 </h4>
             </footer>
         </div>
